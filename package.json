@@ -1,0 +1,12 @@
+{
+  "name": "vanillajs-spa-dictionary",
+  "version": "1.0.0",
+  "description": "Dictionary app with vanilla js",
+  "main": "app.js",
+  "author": "Chuck Smith",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.26.9"
+  }
+}
