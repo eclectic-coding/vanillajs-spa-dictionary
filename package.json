@@ -6,7 +6,7 @@
   "author": "Chuck Smith",
   "license": "MIT",
   "devDependencies": {
-    "parcel": "^2.4.1",
+    "parcel": "^2.5.0",
     "sass": "^1.50.1"
   }
 }
