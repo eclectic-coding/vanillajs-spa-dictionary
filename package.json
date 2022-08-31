@@ -7,6 +7,6 @@
   "license": "MIT",
   "devDependencies": {
     "parcel": "^2.7.0",
-    "sass": "^1.54.6"
+    "sass": "^1.54.7"
   }
 }
